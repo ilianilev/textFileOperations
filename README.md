@@ -1,12 +1,15 @@
 # java_projects
 development of my own JAVA projects
 
-Command-line application in Java that allows the user to manipulate text files with number content. The final solution provides the following:
+This command-line application in Java allows the user to manipulate text files with number content. The final solution provides the following:
+
 1.	Handling of .txt files that contain lines with numbers. Each number is presented as a sequence of digits (0-9) and must not start with 0. 
 The numbers in each line are separated by spaces or tabs. Each line must start with a number, but not space or tab.
 Example of the file content: 112312321525 12312312 5234234234 
 231321321312 123123 2131353453435345345 213123523520234234 2342340005320 3240230042340230803240 3240909 9897823423975239..
+
 2.	Command-line application that asks the user for a file (txt format).
+
 3.	After the user specified the path to the file the application should provide the following options:
 
   a. Validate the file contents – check if the file contents are valid, based on the restrictions in 1. and present to the user the result of 
