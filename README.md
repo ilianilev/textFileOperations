@@ -1,6 +1,6 @@
 # textFileOperations
 
-This command-line application in Java allows the user to manipulate text files with number content. The final solution provides the following:
+The JAVA command-line application textFileOperations allows the user to manipulate text files with number content. The final solution provides the following:
 
 1.	Handling of .txt files that contain lines with numbers. Each number is presented as a sequence of digits (0-9) and must not start with 0. 
 The numbers in each line are separated by spaces or tabs. Each line must start with a number, but not space or tab.
