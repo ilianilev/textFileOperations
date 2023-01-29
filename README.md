@@ -1,5 +1,4 @@
 # java_projects
-development of my own JAVA projects
 
 This command-line application in Java allows the user to manipulate text files with number content. The final solution provides the following:
 
